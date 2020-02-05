@@ -1,0 +1,45 @@
+tr:nth-of-type(3) {
+  border-bottom-style: solid;
+  border-top: 4px;
+  border-color: black;
+}
+
+td:nth-of-type(3) {
+  outline: 0;
+  border-top-right-radius: 4px;
+  border-color: black;
+  border-right-style: solid;
+}
+
+tr:nth-of-type(6) {
+  border-bottom-style: solid;
+  border-top: 4px;
+  border-color: black;
+}
+
+td:nth-of-type(6) {
+  outline: 0;
+  border-top-right-radius: 4px;
+  border-color: black;
+  border-right-style: solid;
+}
+#gameboard {
+  text-align: center;
+  margin-left: auto;
+  margin-top: auto;
+}
+
+input {
+  width: 60px;
+  height: 60px;
+}
+
+#wrapper {
+  margin: auto;
+  display: inline-block;
+  text-align: center;
+}
+
+body {
+  text-align: center;
+}
